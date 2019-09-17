@@ -1,0 +1,74 @@
+
+/*设置头部*/
+.headDiv{
+	width: 980px; 
+	margin: 0 auto;
+}
+/*导航栏背景图片*/
+.navBG1{
+	background-image: url('images/bg.jpg');
+	height: 600px;
+	background-repeat: no-repeat;
+}
+/*导航栏背景条*/
+.navBG2{
+	background-image: url('images/nav.png');
+	height: 100px;
+	background-repeat: no-repeat;
+}
+/*优惠活动DIV控制*/
+.active1{
+	width: 290px;
+	float: left;
+	text-align: center;
+}
+
+.active2{
+	height: 100px;
+	color: grey;
+	align=left;
+}	
+
+/*注意事项DIV控制*/
+.active3{
+	width: 290px;
+	margin-left: 52px;
+	float: left;
+	text-align: center;
+}
+.active4{
+	height: 100px;
+	color: grey;
+	align=left;
+}
+
+/*宝贝庆生会DIV控制*/
+.active5{
+	width: 290px;
+	margin-left: 52px;
+	float: left;
+	text-align: center;
+}
+.active6{
+	height: 100px;
+	color: grey;
+	align=left;
+}
+
+/*样片欣赏DIV控制*/
+.appearance{
+	clear: left;
+	 background-image: url('images/xinshang.jpg');
+	 height: 450px; 
+	 background-repeat:no-repeat;
+}
+/*版权信息DIV控制*/
+.copyright{
+	background-image: url('images/footer_bg.jpg');
+	height: 80px;
+	text-align: center;
+	line-height: 100px;
+}
+
+
+
